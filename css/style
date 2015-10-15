@@ -1,0 +1,19 @@
+h1{
+	color:red;
+					font-size:40px;
+					font-weight: 500;
+					font-family:Helvetica;
+					}
+				h2{
+					color:black;
+					font-size:16px;
+					}
+				img{
+				    border-width:1px;
+				    border-style:solid;
+				    border-color:blue;
+				    }
+				p{
+					background:yellow;
+					font-size:30px;
+				}

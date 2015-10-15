@@ -1,0 +1,44 @@
+h1{
+	color:red;
+	font-size:40px;
+	font-weight: 500;
+	font-family:Helvetica;
+}
+h2{
+	color:black;
+	font-size:16px;
+}
+img{
+    border-width:1px;
+    border-style:solid;
+    border-color:blue;
+    }
+p{
+	background:yellow;
+	font-size:30px;
+}
+p a{
+		color: #AAAAAA;
+		font-size: 40px;
+}
+.grande{
+	font-size:60px;
+}
+.pequeno{
+	color:blue;
+	font-size:10px;
+}
+p a{
+	color:orange;
+	text-decoration: underline;
+}
+#center{
+	text-align: center;
+}
+.verde{
+	background-color: green;
+	text-align: center;
+}
+*{
+	color: green;
+}
